@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a4510ba-1a6a-407c-92be-b888b681c34b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bJaLT1hgNJbq8BjUmpXXnUZSOO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DIVYA CHERYL MORAS\Documents\myenv\Scripts\consignment\delivery\templates\delivery" />
+      <recent name="C:\Users\DIVYA CHERYL MORAS\Documents\myenv\Scripts\consignment\delivery\templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a4510ba-1a6a-407c-92be-b888b681c34b" name="Default Changelist" comment="" />
+      <created>1588352593179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588352593179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="303" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1588416389520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="611" y="303" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1588416389520" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588416902836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588416902836" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1588491136169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588491136169" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588684759559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588684759559" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588430266087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588430266087" />
+  </component>
+</project>
